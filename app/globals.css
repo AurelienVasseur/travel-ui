@@ -126,7 +126,7 @@ body {
 
   /* Hero */
   .hero-map {
-    @apply absolute right-0 top-0 h-screen w-screen bg-pattern-2 bg-cover bg-center md:-right-28 4xl:left-1/4 xl:-top-96 xl:scale-75 max-w-[2000px];
+    @apply absolute right-0 top-0 h-screen w-screen bg-pattern-2 bg-cover bg-center md:-right-48 xl:-top-44;
   }
 
   /* Camp */
